@@ -16,6 +16,7 @@ t 13
 3. 需要在CharCountC和CharCountJava的src目录下写入你的代码。
 4. 需要你记录一下两者的用时（用代码实现）。
 5. 将整个Lab1CharCount打包并命名为"姓名-学号"，上传work_upload/lab1中。
+6. deadline: 2020年10月11日 23:59:59
 
 
 ## 思考题
