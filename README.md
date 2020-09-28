@@ -22,3 +22,17 @@ t 13
 1. Java与C语言有什么不同之处？
 2. 你觉得Java的优缺点是什么？C的优缺点是什么？
 3. 对比一下两者的用时。
+
+## 选做
+将麦克白文本的词汇进行分割，统计各个词汇的频率。比如输入：
+```
+Thunder and lightning. Enter three Witches
+When shall we three meet again
+In thunder, lightning, or in rain?
+```
+输出
+```
+thunder, 1
+lightning, 1
+```
+不需要分割标点符号，只需要将" "空格作为分隔符就好了。
